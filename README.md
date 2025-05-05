@@ -1,6 +1,6 @@
 # CP2 - Front: Figma e HTML
 
-Este repositório apresenta o resultado do trabalho desenvolvido no CP2 da disciplina de Front-End. foi criado um site institucional utilizando *HTML semântico, seguindo boas práticas de estruturação de código, além da construção de um **protótipo em alta fidelidade no Figma*.
+- Este repositório apresenta o resultado do trabalho desenvolvido no CP2 da disciplina de Front-End. foi criado um site institucional utilizando *HTML semântico, seguindo boas práticas de estruturação de código, além da construção de um **protótipo em alta fidelidade no Figma*.
 ---
 
 ## ✅ O que foi feito:
